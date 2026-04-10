@@ -1,4 +1,4 @@
-# Awesome RocketRide [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![CI](https://github.com/joshuadarron/awesome-rocketride/actions/workflows/ci.yml/badge.svg)](https://github.com/joshuadarron/awesome-rocketride/actions/workflows/ci.yml)
+# Awesome RocketRide [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![CI](https://github.com/rocketride-org/awesome-rocketride/actions/workflows/ci.yml/badge.svg)](https://github.com/rocketride-org/awesome-rocketride/actions/workflows/ci.yml)
 
 > A curated list of community-built demos and projects using [RocketRide](https://rocketride.ai), the AI execution layer in your stack.
 
