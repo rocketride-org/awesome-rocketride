@@ -10,7 +10,7 @@
 
 ## Demos & Examples
 
-- [Project Name](https://github.com/example/repo) - One sentence description of what it does and which RocketRide nodes or features it uses.
+- [Pulsar](https://github.com/joshuadarron/pulsar) - Market research reporting agent that surfaces competitive positioning insights to help agents and decision makers understand their organization's standing within target markets.
 
 ## Contributing
 
