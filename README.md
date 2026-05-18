@@ -11,6 +11,7 @@
 ## Demos & Examples
 
 - [Pulsar](https://github.com/joshuadarron/pulsar) - Market research reporting agent that surfaces competitive positioning insights to help agents and decision makers understand their organization's standing within target markets.
+- [Turn-Based Strategy MCP Server](https://github.com/dsapandora/turn-based-strategy-mcp-server) - Turn-based strategy game example using MCP Server.
 
 ## Contributing
 
