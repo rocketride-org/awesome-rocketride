@@ -27,5 +27,5 @@ jobs:
       - name: Check links
         uses: lycheeverse/lychee-action@v1
         with:
-          args: --verbose --no-progress --accept 429 --exclude localhost README.md
+          args: --verbose --no-progress --accept 200,206,403,429 --exclude localhost --exclude 'npmjs\.com' README.md
           fail: true

@@ -9,6 +9,12 @@
 </p>
 
 <p>
+<img src="https://raw.githubusercontent.com/rocketride-org/awesome-rocketride/main/images/icon-cpp.png" alt="C++" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/rocketride-org/awesome-rocketride/main/images/icon-python.png" alt="Python" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/rocketride-org/awesome-rocketride/main/images/icon-typescript.png" alt="TypeScript" />
+</p>
+
+<p>
   <a href="https://rocketride.org">Home</a> |
   <a href="https://docs.rocketride.org/">Documentation</a> |
   <a href="https://pypi.org/project/rocketride/">Python SDK</a> |
@@ -19,6 +25,14 @@
 <p>
   <a href="https://github.com/rocketride-org/awesome-rocketride/actions/workflows/ci.yml"><img src="https://github.com/rocketride-org/awesome-rocketride/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
 </p>
+
+<img src="https://raw.githubusercontent.com/rocketride-org/awesome-rocketride/main/images/screenshot-ide.png" alt="Build and run AI pipelines inside your IDE" width="100%">
+
+_Design, test, and ship complex AI workflows from a visual canvas, right where you write code._
+
+<img src="https://raw.githubusercontent.com/rocketride-org/awesome-rocketride/main/images/screenshot-sdk.png" alt="Integrate real AI solutions using a simple SDK" width="100%">
+
+_Drop pipelines into any Python or TypeScript app with a few lines of code, no infrastructure glue required._
 
 </div>
 
