@@ -5,7 +5,7 @@
 </a>
 
 <p>
-  A curated list of community-built demos and projects using <a href="https://rocketride.ai">RocketRide</a>, the AI execution layer in your stack.
+  Awesome projects built with the <a href="https://rocketride.ai">RocketRide</a> open source AI runtime.
 </p>
 
 <p>
