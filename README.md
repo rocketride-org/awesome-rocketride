@@ -36,6 +36,7 @@
 - [PR Analyzer](https://github.com/dsapandora/pr_analyzer) - AI-powered GitHub Pull Request intelligence: topic clustering, duplicate hints, quality scoring, merge-style recommendations, and chat over your repo.
 - [Pulsar](https://github.com/joshuadarron/pulsar) - Market research reporting agent that surfaces competitive positioning insights to help agents and decision makers understand their organization's standing within target markets.
 - [Turn-Based Strategy MCP Server](https://github.com/dsapandora/turn-based-strategy-mcp-server) - Turn-based strategy game example using MCP Server.
+- [3T Soccer Webots Agent](https://github.com/dsapandora/3t_soccer_webots_agent) - Webots robot playing soccer using a 3T architecture.
 
 ## Contributing
 
