@@ -12,20 +12,22 @@ on:
   workflow_dispatch:
 
 jobs:
-  awesome-lint:
+  markdown-lint:
     runs-on: ubuntu-latest
     if: github.event_name == 'pull_request'
     steps:
       - uses: actions/checkout@v4
-      - name: Run awesome-lint
-        run: npx awesome-lint
+      - name: Run markdownlint
+        uses: DavidAnson/markdownlint-cli2-action@v16
+        with:
+          globs: '**/*.md'
 
   link-check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - name: Check links
-        uses: lycheeverse/lychee-action@v1
+        uses: lycheeverse/lychee-action@v2.0.2
         with:
           args: --verbose --no-progress --accept 200,206,403,429 --exclude localhost --exclude 'npmjs\.com' README.md
           fail: true

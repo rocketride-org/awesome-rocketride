@@ -8,7 +8,7 @@ Public repos that include a working RocketRide pipeline or integration with a RE
 
 Entries go under the appropriate section in `README.md`. Format is exactly:
 
-```
+```markdown
 - [Project Name](url) - One sentence description.
 ```
 
