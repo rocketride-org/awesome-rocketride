@@ -33,6 +33,7 @@
 
 ## Demos & Examples
 
+- [Company Brain](https://github.com/kgarg2468/Rocketride-demo-companybrain) - A team knowledge graph that captures GitHub into an Obsidian vault and Neo4j, then answers as sales-vs-engineer and routes engineers around conflicting work, built with RocketRide's agent_deepagent, tool_github, and db_neo4j nodes.
 - [Discord Docs Support Bot](https://github.com/mithileshgau/rocketride-support-bot) - A Discord bot that answers support questions from your documentation via RAG, using RocketRide's agent_crewai, qdrant, and embedding_transformer nodes.
 - [PR Analyzer](https://github.com/dsapandora/pr_analyzer) - AI-powered GitHub Pull Request intelligence: topic clustering, duplicate hints, quality scoring, merge-style recommendations, and chat over your repo.
 - [Pulsar](https://github.com/joshuadarron/pulsar) - Market research reporting agent that surfaces competitive positioning insights to help agents and decision makers understand their organization's standing within target markets.
